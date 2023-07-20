@@ -14,4 +14,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitohatv&show_icons=true&locale=en&layout=compact" alt="vitohatv-stats" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitohatv&show_icons=true&locale=en" alt="vitohatv-stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitohatv&" alt="vitohatv-stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitohatv&" alt="vitohatv-stats" /></p>
