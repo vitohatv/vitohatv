@@ -2,7 +2,7 @@
 <h4 align="center">And I am a Front-End Developer from Almaty, Kazakhstan</h4>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=vitohatv&label=Profile%20views&color=9c0000&style=flat" alt="vitoha-tv-counter"/></p>
 
-- 🌱 I’m currently learning **Node.Js, TypeScript**
+- 🌱 I’m currently learning **Node.Js**
 
 - 📫 How to reach me **vitohatv@gmail.com**
 
